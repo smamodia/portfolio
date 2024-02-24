@@ -1,0 +1,41 @@
+body {
+    font-family: cursive;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #3c80cd;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+main {
+    padding: 20px;
+}
+section {
+    margin-bottom: 20px;
+}
+.project {
+    margin-bottom: 20px;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
